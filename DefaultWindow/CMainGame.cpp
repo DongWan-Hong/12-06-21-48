@@ -9,7 +9,7 @@
 #include "BlockMgr.h"
 #include "CBmpMgr.h"
 #include "CSceneMgr.h"
-
+//
 
 CMainGame::CMainGame()
 	: m_ullTime(GetTickCount64()), m_iFPS(0), m_hDC(nullptr)
